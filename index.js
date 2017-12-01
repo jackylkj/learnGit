@@ -1,3 +1,4 @@
-console.log(1);
-
-console.log(2);
+var i = 1000;
+export default function PrintMe(){
+    console.log('Updating print.js...'+i++);
+}
