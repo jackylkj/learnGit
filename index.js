@@ -4,3 +4,6 @@ export default function PrintMe(){
 }
 
 console.log(22222);
+
+console.log(111111);
+
